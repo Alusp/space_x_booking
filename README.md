@@ -15,7 +15,7 @@
 
 ## Live Demo 
 
-[Live demo](https://suzi216.github.io/space-X/)
+[Live demo](https://space-x-booking.netlify.app/)
 
 
 ## Getting Started
