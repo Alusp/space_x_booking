@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 - Clone the repository by running the following command in your terminal:
-    git clone https://github.com/PromzzyKoncepts/Space-Travellers-Hub.git
+    git clone https://github.com/Alusp/space_x_booking.git
     
 - Change your directory by by running the following command in your terminal:
     cd space-hub
