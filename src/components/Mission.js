@@ -16,7 +16,7 @@ const Mission = () => {
   };
   useEffect(() => {
     if (!allmission.length) dispatch(displayMission());
-  }, []);
+  }, [allmission.length, dispatch]);
 
   return (
     <div className="table-container">
