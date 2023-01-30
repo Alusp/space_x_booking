@@ -5,6 +5,7 @@
 > This is a web based app which is showing information about the spaceX rockets and missions.
 > A user can reserve rockets and missions with the app.
 
+![Space Hub](https://user-images.githubusercontent.com/43528594/215572037-e472a532-1d8d-474b-801f-2d2b847bea55.png)
 
 ## Built With
 
